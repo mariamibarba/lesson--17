@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(120, 120, 202);
+}
+
+#user-list{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.user-item{
+    background-color: white;
+    margin-right: 50px;
+    margin-top: 40px;
+    height: 370px;
+    
+    
+}
+
+.namespan{
+    font-size: 20px;
+    margin-left: 100px;
+ 
+}
+
+
+img{
+    width: 250px;
+}
